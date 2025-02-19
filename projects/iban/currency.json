@@ -1,0 +1,122 @@
+{
+    "USD": [
+        "US dollar",
+        "1.0507"
+    ],
+    "JPY": [
+        "Japanese yen",
+        "160.35"
+    ],
+    "BGN": [
+        "Bulgarian lev",
+        "1.9558"
+    ],
+    "CZK": [
+        "Czech koruna",
+        "25.117"
+    ],
+    "DKK": [
+        "Danish krone",
+        "7.4574"
+    ],
+    "GBP": [
+        "Pound sterling",
+        "0.82458"
+    ],
+    "HUF": [
+        "Hungarian forint",
+        "409.48"
+    ],
+    "PLN": [
+        "Polish zloty",
+        "4.2643"
+    ],
+    "RON": [
+        "Romanian leu",
+        "4.9674"
+    ],
+    "SEK": [
+        "Swedish krona",
+        "11.5165"
+    ],
+    "CHF": [
+        "Swiss franc",
+        "0.9280"
+    ],
+    "ISK": [
+        "Icelandic krona",
+        "145.90"
+    ],
+    "NOK": [
+        "Norwegian krone",
+        "11.7120"
+    ],
+    "TRY": [
+        "Turkish lira",
+        "36.6380"
+    ],
+    "AUD": [
+        "Australian dollar",
+        "1.6525"
+    ],
+    "BRL": [
+        "Brazilian real",
+        "6.3431"
+    ],
+    "CAD": [
+        "Canadian dollar",
+        "1.4905"
+    ],
+    "CNY": [
+        "Chinese yuan renminbi",
+        "7.6318"
+    ],
+    "HKD": [
+        "Hong Kong dollar",
+        "8.1677"
+    ],
+    "IDR": [
+        "Indonesian rupiah",
+        "16740.07"
+    ],
+    "ILS": [
+        "Israeli shekel",
+        "3.7665"
+    ],
+    "INR": [
+        "Indian rupee",
+        "89.1495"
+    ],
+    "KRW": [
+        "South Korean won",
+        "1502.88"
+    ],
+    "MXN": [
+        "Mexican peso",
+        "21.2325"
+    ],
+    "MYR": [
+        "Malaysian ringgit",
+        "4.6578"
+    ],
+    "NZD": [
+        "New Zealand dollar",
+        "1.8180"
+    ],
+    "PHP": [
+        "Philippine peso",
+        "61.266"
+    ],
+    "SGD": [
+        "Singapore dollar",
+        "1.4114"
+    ],
+    "THB": [
+        "Thai baht",
+        "35.603"
+    ],
+    "ZAR": [
+        "South African rand",
+        "18.6794"
+    ]
+}

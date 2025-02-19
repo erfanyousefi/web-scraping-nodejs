@@ -1,0 +1,269 @@
+[
+    {
+        "image": "https://github.com/jmcdo29.png?size=40",
+        "description": "A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, i…",
+        "link": "https://guthub.com/jmcdo29/testing-nestjs",
+        "date": "Aug 23, 2024, 3:55 PM UTC",
+        "language": "TypeScript language",
+        "stars": "2932 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/kpfromer.png?size=40",
+        "description": "Typegoose with NestJS",
+        "link": "https://guthub.com/kpfromer/nestjs-typegoose",
+        "date": "Nov 19, 2024, 2:42 PM UTC",
+        "language": "TypeScript language",
+        "stars": "291 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/squareboat.png?size=40",
+        "description": "A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding! Now Supports NestJS V10!!",
+        "link": "https://guthub.com/squareboat/nestjs-boilerplate",
+        "date": "Sep 21, 2023, 7:44 AM UTC",
+        "language": "TypeScript language",
+        "stars": "702 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/surmon-china.png?size=40",
+        "description": "🟢 RESTful API service for https://surmon.me blog, powered by @nestjs",
+        "link": "https://guthub.com/surmon-china/nodepress",
+        "date": "Aug 30, 2024, 1:43 PM UTC",
+        "language": "TypeScript language",
+        "stars": "1447 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/avatsaev.png?size=40",
+        "description": "Full Stack Angular PWA example app with NgRx & NestJS",
+        "link": "https://guthub.com/avatsaev/angular-contacts-app-example",
+        "date": "Feb 12, 2023, 12:55 PM UTC",
+        "language": "TypeScript language",
+        "stars": "629 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/cyclic-software.png?size=40",
+        "link": "https://guthub.com/cyclic-software/starter-nestjs",
+        "date": "May 25, 2024, 3:01 PM UTC",
+        "language": "TypeScript language",
+        "stars": "16 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/xmlking.png?size=40",
+        "description": "🅰️ Angular 🚀 NestJS 🐒 Starter Kit",
+        "link": "https://guthub.com/xmlking/ngx-starter-kit",
+        "date": "Mar 3, 2023, 12:36 AM UTC",
+        "language": "TypeScript language",
+        "stars": "588 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/marcomelilli.png?size=40",
+        "description": "Nestjs Starter using Mongodb and Passportjs",
+        "link": "https://guthub.com/marcomelilli/nestjs-email-authentication",
+        "date": "Feb 12, 2023, 5:00 AM UTC",
+        "language": "TypeScript language",
+        "stars": "482 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/academind.png?size=40",
+        "description": "An introduction to NestJS - also watch the full video: https://www.academind.com/node-js/nestjs-introduction",
+        "link": "https://guthub.com/academind/nestjs-introduction",
+        "date": "Apr 10, 2023, 2:19 PM UTC",
+        "language": "TypeScript language",
+        "stars": "168 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/kelvin-mai.png?size=40",
+        "description": "REST API for app ideas built in nestjs",
+        "link": "https://guthub.com/kelvin-mai/nest-ideas-api",
+        "date": "Jan 12, 2023, 1:42 AM UTC",
+        "language": "TypeScript language",
+        "stars": "527 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/jmcdo29.png?size=40",
+        "description": "A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, i…",
+        "link": "https://guthub.com/jmcdo29/testing-nestjs",
+        "date": "Aug 23, 2024, 3:55 PM UTC",
+        "language": "TypeScript language",
+        "stars": "2932 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/kpfromer.png?size=40",
+        "description": "Typegoose with NestJS",
+        "link": "https://guthub.com/kpfromer/nestjs-typegoose",
+        "date": "Nov 19, 2024, 2:42 PM UTC",
+        "language": "TypeScript language",
+        "stars": "291 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/squareboat.png?size=40",
+        "description": "A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding! Now Supports NestJS V10!!",
+        "link": "https://guthub.com/squareboat/nestjs-boilerplate",
+        "date": "Sep 21, 2023, 7:44 AM UTC",
+        "language": "TypeScript language",
+        "stars": "702 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/surmon-china.png?size=40",
+        "description": "🟢 RESTful API service for https://surmon.me blog, powered by @nestjs",
+        "link": "https://guthub.com/surmon-china/nodepress",
+        "date": "Aug 30, 2024, 1:43 PM UTC",
+        "language": "TypeScript language",
+        "stars": "1447 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/avatsaev.png?size=40",
+        "description": "Full Stack Angular PWA example app with NgRx & NestJS",
+        "link": "https://guthub.com/avatsaev/angular-contacts-app-example",
+        "date": "Feb 12, 2023, 12:55 PM UTC",
+        "language": "TypeScript language",
+        "stars": "629 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/cyclic-software.png?size=40",
+        "link": "https://guthub.com/cyclic-software/starter-nestjs",
+        "date": "May 25, 2024, 3:01 PM UTC",
+        "language": "TypeScript language",
+        "stars": "16 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/xmlking.png?size=40",
+        "description": "🅰️ Angular 🚀 NestJS 🐒 Starter Kit",
+        "link": "https://guthub.com/xmlking/ngx-starter-kit",
+        "date": "Mar 3, 2023, 12:36 AM UTC",
+        "language": "TypeScript language",
+        "stars": "588 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/marcomelilli.png?size=40",
+        "description": "Nestjs Starter using Mongodb and Passportjs",
+        "link": "https://guthub.com/marcomelilli/nestjs-email-authentication",
+        "date": "Feb 12, 2023, 5:00 AM UTC",
+        "language": "TypeScript language",
+        "stars": "482 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/academind.png?size=40",
+        "description": "An introduction to NestJS - also watch the full video: https://www.academind.com/node-js/nestjs-introduction",
+        "link": "https://guthub.com/academind/nestjs-introduction",
+        "date": "Apr 10, 2023, 2:19 PM UTC",
+        "language": "TypeScript language",
+        "stars": "168 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/kelvin-mai.png?size=40",
+        "description": "REST API for app ideas built in nestjs",
+        "link": "https://guthub.com/kelvin-mai/nest-ideas-api",
+        "date": "Jan 12, 2023, 1:42 AM UTC",
+        "language": "TypeScript language",
+        "stars": "527 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/jmcdo29.png?size=40",
+        "description": "A repository to show off to the community methods of testing NestJS including Unit Tests, Integration Tests, E2E Tests, pipes, filters, i…",
+        "link": "https://guthub.com/jmcdo29/testing-nestjs",
+        "date": "Aug 23, 2024, 3:55 PM UTC",
+        "language": "TypeScript language",
+        "stars": "2932 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/kpfromer.png?size=40",
+        "description": "Typegoose with NestJS",
+        "link": "https://guthub.com/kpfromer/nestjs-typegoose",
+        "date": "Nov 19, 2024, 2:42 PM UTC",
+        "language": "TypeScript language",
+        "stars": "291 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/squareboat.png?size=40",
+        "description": "A production-ready 🏭 NestJS boilerplate with batteries 🔋 included. No Kidding! Now Supports NestJS V10!!",
+        "link": "https://guthub.com/squareboat/nestjs-boilerplate",
+        "date": "Sep 21, 2023, 7:44 AM UTC",
+        "language": "TypeScript language",
+        "stars": "702 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/surmon-china.png?size=40",
+        "description": "🟢 RESTful API service for https://surmon.me blog, powered by @nestjs",
+        "link": "https://guthub.com/surmon-china/nodepress",
+        "date": "Aug 30, 2024, 1:43 PM UTC",
+        "language": "TypeScript language",
+        "stars": "1447 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/avatsaev.png?size=40",
+        "description": "Full Stack Angular PWA example app with NgRx & NestJS",
+        "link": "https://guthub.com/avatsaev/angular-contacts-app-example",
+        "date": "Feb 12, 2023, 12:55 PM UTC",
+        "language": "TypeScript language",
+        "stars": "629 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/cyclic-software.png?size=40",
+        "link": "https://guthub.com/cyclic-software/starter-nestjs",
+        "date": "May 25, 2024, 3:01 PM UTC",
+        "language": "TypeScript language",
+        "stars": "16 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/xmlking.png?size=40",
+        "description": "🅰️ Angular 🚀 NestJS 🐒 Starter Kit",
+        "link": "https://guthub.com/xmlking/ngx-starter-kit",
+        "date": "Mar 3, 2023, 12:36 AM UTC",
+        "language": "TypeScript language",
+        "stars": "588 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/marcomelilli.png?size=40",
+        "description": "Nestjs Starter using Mongodb and Passportjs",
+        "link": "https://guthub.com/marcomelilli/nestjs-email-authentication",
+        "date": "Feb 12, 2023, 5:00 AM UTC",
+        "language": "TypeScript language",
+        "stars": "482 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/academind.png?size=40",
+        "description": "An introduction to NestJS - also watch the full video: https://www.academind.com/node-js/nestjs-introduction",
+        "link": "https://guthub.com/academind/nestjs-introduction",
+        "date": "Apr 10, 2023, 2:19 PM UTC",
+        "language": "TypeScript language",
+        "stars": "168 stars",
+        "technologies": []
+    },
+    {
+        "image": "https://github.com/kelvin-mai.png?size=40",
+        "description": "REST API for app ideas built in nestjs",
+        "link": "https://guthub.com/kelvin-mai/nest-ideas-api",
+        "date": "Jan 12, 2023, 1:42 AM UTC",
+        "language": "TypeScript language",
+        "stars": "527 stars",
+        "technologies": []
+    }
+]
